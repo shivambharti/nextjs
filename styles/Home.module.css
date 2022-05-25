@@ -114,3 +114,7 @@
     flex-direction: column;
   }
 }
+
+.aboutImg{
+  width: 100%;
+}
